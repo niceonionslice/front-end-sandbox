@@ -1,0 +1,8 @@
+{
+  "name": "front-end-sandbox",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github-private:niceonionslice/front-end-sandbox.git",
+  "author": "niceonionslice <niceonionslice@gmail.com>",
+  "license": "MIT"
+}
